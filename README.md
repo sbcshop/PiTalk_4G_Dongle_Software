@@ -13,6 +13,8 @@ For working with our 4G dongle follow the steps below:
 
 ***Step.2 -*** After installing the USB driver compatible with your system, plugin your 4G USB Dongle in your system via USB Cable of directly. Open the device manager and you will com port of Quectel device showing as in beloe image
 
+<img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr6.png" />
+
 
 
 ## Documentation
