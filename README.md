@@ -6,6 +6,15 @@ PiTalk 4G Dongle is a worldwide band industrial grade 4G dongle that supports OS
 
 <img src ="https://ksr-ugc.imgix.net/assets/039/316/842/48f7f7fe4b0663294975fcee35a417dd_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1669345529&gif-q=50&lossless=true&s=37645ed39bf2892f2052b359d1cddad4" />
 
+## Working with 4G Dongle
+For working with our 4G dongle follow the steps below:
+
+***Step.1 -*** To start working with this board first you have to install its USB driver officially provided by Quectel. For this we have uplaoded a zip file of it simply download it and intsntall in you computer system or you can visit on the link blow to download its USB driver for your system.
+
+***Step.2 -*** After installing compatible 
+
+
+
 ## Documentation
 
 * [PiTalk 4G Dongle Hardware](https://github.com/sbcshop/PiTalk_4G_Dongle_Hardware)
