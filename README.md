@@ -15,7 +15,7 @@ For working with our 4G dongle follow the steps below:
 
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr6.png" />
 
-***Step.3 -*** Now, insert SIM card and attach 4G antenna to it and plugin in your system after few seconds you see a green led will glow and a blue LED will start blinking. If everything goes well it will connect as cellular network in your system as shown below:
+***Step.3 -*** Now, insert SIM card and attach 4G antenna to it and plugin in your system after few seconds you see a green led will glow and a blue LED will start blinking. If everything goes well it will connect as a cellular network in your system as shown below:
 
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr7.png" />
 
