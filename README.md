@@ -4,12 +4,19 @@
 
 PiTalk 4G Dongle is a worldwide band industrial grade 4G dongle that supports OS systems such as Windows/Linux and has a downlink throughput of up to 150Mbps and an uplink rate of 50Mbps. It is simple to use 4G network connection on the move by simply connecting it to a laptop, PC, Raspberry Pi, drone, industrial computer, or any IoT host device. Just like PiTalk 4G HAT, it supports 2G/3G/4G network connection, global band. We will provide the drivers for operating systems including Windows/Linux. This will help the users to run their programs and develop their own apps.
 
-## Features:
+## Key Features Of EG25-G:
 
-*
-*
-*
-*
+* Supply voltage: 3.3–4.3 V
+* Support up to non-CA Cat 4 FDD and TDD
+* Support 1.4/3/5/10/15/20 MHz RF bandwidth
+* Support MIMO in DL direction
+* LTE-FDD: Max. 150 Mbps (DL), Max. 50 Mbps (UL)
+* LTE-TDD: Max. 130 Mbps (DL), Max. 30 Mbps (UL)
+* Support GPRS multi-slot class 33 (33 by default)
+* Coding scheme: CS-1, CS-2, CS-3 and CS-4
+* Max. 107 kbps (DL), Max. 85.6 kbps (UL)
+* Support TCP/UDP/PPP/FTP/FTPS/HTTP/HTTPS/NTP/PING/QMI/NITZ/SMTP/SSL/MQTT/CMUX/SMTPS/FILE/MMS* protocols
+For more key features of EG25-G Module [click here]()
 
 
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/4G%20Dongle.png" />
