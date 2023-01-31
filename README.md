@@ -13,6 +13,7 @@ For working with our 4G dongle follow the steps below:
 
 ***Step.2 -*** After installing the USB driver compatible with your system, plugin your 4G USB Dongle in your system via USB Cable or directly. Open the device manager and you will see ***COM Port of Quectel*** device showing as in below image:
 
+<img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Img.png" />
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr6.png" />
 
 ***Step.3 -*** Now, insert SIM card and attach 4G antenna to it and plugin in your system after few seconds you see a green led will glow and a blue LED will start blinking. If everything goes well it will connect as a cellular network in your system as shown below:
