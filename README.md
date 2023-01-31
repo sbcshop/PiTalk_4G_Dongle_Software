@@ -19,6 +19,7 @@ For working with our 4G dongle follow the steps below:
 
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/Scr7.png" />
 
+***Step.3 -*** After the succesfull connection to your 4G Dongle board you will able to use your cellular network to connect with internet. 
 
 ## Documentation
 
