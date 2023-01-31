@@ -6,17 +6,17 @@ PiTalk 4G Dongle is a worldwide band industrial grade 4G dongle that supports OS
 
 ## Key Features Of EG25-G:
 
-* Supply voltage: 3.3–4.3 V
-* Support up to non-CA Cat 4 FDD and TDD
-* Support 1.4/3/5/10/15/20 MHz RF bandwidth
-* Support MIMO in DL direction
-* LTE-FDD: Max. 150 Mbps (DL), Max. 50 Mbps (UL)
+* Supply voltage: 3.3–4.3 V.
+* Support up to non-CA Cat 4 FDD and TDD.
+* Support 1.4/3/5/10/15/20 MHz RF bandwidth.
+* Support MIMO in DL direction.
+* LTE-FDD: Max. 150 Mbps (DL), Max. 50 Mbps (UL).
 * LTE-TDD: Max. 130 Mbps (DL), Max. 30 Mbps (UL)
-* Support GPRS multi-slot class 33 (33 by default)
-* Coding scheme: CS-1, CS-2, CS-3 and CS-4
-* Max. 107 kbps (DL), Max. 85.6 kbps (UL)
-* Support TCP/UDP/PPP/FTP/FTPS/HTTP/HTTPS/NTP/PING/QMI/NITZ/SMTP/SSL/MQTT/CMUX/SMTPS/FILE/MMS* protocols
-For more key features of EG25-G Module [click here]()
+* Support GPRS multi-slot class 33 (33 by default).
+* Coding scheme: CS-1, CS-2, CS-3 and CS-4.
+* Max. 107 kbps (DL), Max. 85.6 kbps (UL).
+* Support TCP/UDP/PPP/FTP/FTPS/HTTP/HTTPS/NTP/PING/QMI/NITZ/SMTP/SSL/MQTT/CMUX/SMTPS/FILE/MMS* protocols.
+  For more key features of EG25-G Module [click here](https://github.com/sbcshop/PiTalk_4G_Dongle_Hardware/tree/main/Documents)
 
 
 <img src ="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/images/4G%20Dongle.png" />
